@@ -1,6 +1,13 @@
-def print_hello():
-    print("Hello World!!")
+def ad(x, y):
+    b = x + y
+    return b
 
-if __name__ == '__main__':
-    print_hello()
+
+def print_Hi():
+    print("Hello Github!")
+
+    
+
+
+
     
